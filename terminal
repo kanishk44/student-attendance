@@ -1,0 +1,23 @@
+attendance-system/
+├── config/
+│   └── database.js
+├── controllers/
+│   ├── studentController.js
+│   └── attendanceController.js
+├── models/
+│   ├── student.js
+│   └── attendance.js
+├── routes/
+│   ├── studentRoutes.js
+│   └── attendanceRoutes.js
+├── seeders/
+│   └── studentSeeder.js
+├── public/
+│   ├── css/
+│   │   └── style.css
+│   └── js/
+│       └── main.js
+├── views/
+│   └── index.html
+├── package.json
+└── server.js 

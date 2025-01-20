@@ -1,0 +1,21 @@
+.attendance-card {
+  margin-bottom: 1rem;
+}
+
+.student-row {
+  padding: 10px;
+  border-bottom: 1px solid #dee2e6;
+}
+
+.student-row:last-child {
+  border-bottom: none;
+}
+
+.attendance-status {
+  cursor: pointer;
+}
+
+.attendance-status.active {
+  background-color: #198754;
+  color: white;
+}
